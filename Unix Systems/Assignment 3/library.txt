@@ -1,0 +1,25 @@
+Night Shift,Stephen King,336
+Salem's Lot,Stephen King,439
+Cujo,Stephen King,321
+Harry Potter and The Chamber of Secrets,JK Rowling,341
+20th Century Ghosts,Joe Hill,304
+Jurassic Park,Michael Crichton,355
+Congo,Michael Crichton,300
+Ghost Story,Peter Straub,456
+A Game of Thrones,George R.R. Martin,674
+Farenheit 451,Ray Bradbury,296
+1984,George Orwell,303
+American Gods,Neil Gaiman,709
+The Call of Cthulu,H.P. Lovecraft,136
+A Tale of Two Cities,Charles Dickens,341
+The Davinci Code,Dan Brown,454
+Gone Girl,Gillian Flynn,302
+The Chamber,John Grisham,299
+The Fellowship of the Ring,JRR Tolkien,554
+To Kill a Mockingbird,Harper Lee,275
+Brave New World,Aldous Huxley,287
+The Great Gatsby,F. Scott Fitzgerald,228
+Animal Farm,George Orwell,169
+Lord of the Flies,William Golding,217
+The Invisible Man,H.G. Wells,201
+Hamlet,William Shakespear,89

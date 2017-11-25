@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-6-openjdk-amd64/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.6
+-classpath
+/usr/share/bluej/bluejcore.jar:/usr/share/bluej/junit-4.8.2.jar:/usr/share/bluej/userlib/pi4j-core.jar:/usr/share/bluej/userlib/pi4j-gpio-extension.jar:/usr/share/bluej/userlib/pi4j-device.jar:/usr/share/bluej/userlib/pi4j-service.jar:/home/mia/WSU/Computer Science/CS 242/Ch 1/Assignment_1_Rogers
+-d
+/home/mia/WSU/Computer Science/CS 242/Ch 1/Assignment_1_Rogers/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/usr/share/bluej/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/home/mia/WSU/Computer Science/CS 242/Ch 1/Assignment_1_Rogers/Person.java
+<---- end of javadoc command ---->
+Loading source file /home/mia/WSU/Computer Science/CS 242/Ch 1/Assignment_1_Rogers/Person.java...
+Constructing Javadoc information...
+Standard Doclet version 1.6.0_38
+Building tree for all the packages and classes...
+Generating /home/mia/WSU/Computer Science/CS 242/Ch 1/Assignment_1_Rogers/doc/Person.html...
+/home/mia/WSU/Computer Science/CS 242/Ch 1/Assignment_1_Rogers/Person.java:29: warning - @param argument "socialSecurity" is not a parameter name.
+Generating /home/mia/WSU/Computer Science/CS 242/Ch 1/Assignment_1_Rogers/doc/package-frame.html...
+Generating /home/mia/WSU/Computer Science/CS 242/Ch 1/Assignment_1_Rogers/doc/package-summary.html...
+Generating /home/mia/WSU/Computer Science/CS 242/Ch 1/Assignment_1_Rogers/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /home/mia/WSU/Computer Science/CS 242/Ch 1/Assignment_1_Rogers/doc/allclasses-frame.html...
+Generating /home/mia/WSU/Computer Science/CS 242/Ch 1/Assignment_1_Rogers/doc/allclasses-noframe.html...
+Generating /home/mia/WSU/Computer Science/CS 242/Ch 1/Assignment_1_Rogers/doc/index.html...
+Generating /home/mia/WSU/Computer Science/CS 242/Ch 1/Assignment_1_Rogers/doc/stylesheet.css...
+1 warning
